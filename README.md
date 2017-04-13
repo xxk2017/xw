@@ -8,6 +8,9 @@
   <tr>
         <td align=center>
 如打开慢，缓冲稍等或刷新<br/>
+  </tr>
+  <tr>
+        <td align=center>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c803879&from=wnel-xw">◆动  态  网 1</a> 
     <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F220%2F&from=wnel-xw-xw">◆动  态  网 2</a><br/>
   </tr>
