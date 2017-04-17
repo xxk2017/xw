@@ -4,6 +4,11 @@
   </tr>
   <tr>
    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%8A%A8%E6%80%81%E7%BD%91.JPG" /></td>
+   </tr>
+  <tr>
+   <td align=center>
+微信如果提示：停止访问该网页<br/>
+请点击右上角，选择浏览器打开<br/>
   </tr>
   <tr>
         <td align=center>
