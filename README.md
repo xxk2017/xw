@@ -1,19 +1,12 @@
 <table>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E6%96%B0%E9%97%BB%E7%9B%B4%E9%80%9A%E8%BD%A6.jpg" /></td>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E6%96%B0%E9%97%BB.jpg" /></td>
   </tr>
   <tr>
-   <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%8A%A8%E6%80%81%E7%BD%911.jpg" /></td>
-   </tr>
-  <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E1.jpg"/></td>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
- <td align=center>
-如打开慢，缓冲稍等或刷新<br/>
-  </tr>
-  <tr>
-        <td align=center>
+<td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c803879&from=wnel-xw">◆动  态  网（适合手机界面）</a> 
     </tr>
   <tr>
@@ -85,7 +78,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">大陆请点击进入动态网址</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
-    </td>
+苹果用户复制到自带浏览器打开<br/>
   </tr>
   <tr>
       <td align=center>
@@ -102,6 +95,9 @@
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg"/></td>
+  </tr>
+  <tr>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>
