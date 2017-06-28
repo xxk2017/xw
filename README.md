@@ -13,8 +13,7 @@
 ◆2017国人翻墙最人气软件网门<br/>
 ◆网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 ◆下载网门安卓版：更快更方便<br/>
-  </tr>
-  <tr></tr>
+ </tr>
   <tr>
   <td align=center>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?http%3A%2F%2F110%2F&from=wnel-zx">◆◆◆法轮大法明慧网◆◆◆</a><br/> 
