@@ -5,15 +5,16 @@
 ◆适合苹果、安卓、平板、电脑<br/>
 ◆其中安卓用户与电脑用户<br/>
 ◆推荐使用谷歌或火狐浏览器<br/>
-<a href="https://chrome.cn.uptodown.com/androidl">（谷歌浏览器安卓版 请下载安装）</a><br/>
+<a href="https://chrome.cn.uptodown.com/androidl">谷歌安卓版、 </a>
+<a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
+<a href="https://cn.uptodown.com/iphone">苹果版、</a>
+<a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆国产浏览器干扰浏览，请卸载<br/>
 ◆2017国人翻墙最人气软件网门<br/>
 ◆网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 ◆下载网门安卓版：更快更方便<br/>
   </tr>
-  <tr>
-<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
-  </tr>
+  <tr></tr>
   <tr>
   <td align=center>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?http%3A%2F%2F110%2F&from=wnel-zx">◆◆◆法轮大法明慧网◆◆◆</a><br/> 
