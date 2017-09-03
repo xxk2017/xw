@@ -4,7 +4,7 @@
   </tr>
   <tr>
 <td align=left>本页短网址：https://git.io/vQgT8<br/>
-❤翻墙永久网址：https://git.io/ogate <br/>
+❤翻墙永久网址：https://git.io/ogate2 <br/>
 本页如屏蔽，请将网址输入谷歌浏览器<br/>
 苹果用户请输入网址到苹果浏览器打开<br/>
 网民必备浏览器：谷歌浏览器（请安装）<br/>
@@ -19,7 +19,7 @@
   </tr>
   <tr>
 <td align=left>◆2017国人翻墙最人气网站<br/>
-❤网门 https://git.io/ogate<br/>
+❤网门 https://git.io/ogate2<br/>
 ◆请收藏到手机和电脑浏览器中<br/>
 ◆适合苹果、安卓、平板、电脑<br/>
 ◆其中安卓用户与电脑用户<br/>
@@ -111,7 +111,7 @@
   <tr>
 <td align=center>网门 網門<br/>
 欢迎来到固定页面，请收藏浏览器<br/>
-❤ https://git.io/ogate ❤ <br/>
+❤ https://git.io/ogate2 ❤ <br/>
 适合苹果、安卓、平板、电脑<br/>
 </tr>
 <tr>
@@ -153,7 +153,7 @@
   <tr>
 <td align=left>
 ◆全球免费翻墙最人气网站：网门<br/> 
-网门网页版 https://git.io/ogate 热门推荐<br/>
+网门网页版 https://git.io/ogate2 热门推荐<br/>
 网门安卓版 https://git.io/ogatea<br/>
 网门桌面版 https://git.io/ogatew<br/>
 谷歌桌面版 https://git.io/ogatecw<br/>
