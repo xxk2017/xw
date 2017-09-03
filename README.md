@@ -120,12 +120,15 @@
   </tr>
   <tr>
   <td align=center>请尝试不同入口，进入动态网址<br/>
-      <a href="https://rawgit.com/onorm/up/master/oGate.htm?from=wnel">入口</a>
-      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3-us-west-1.amazonaws.com/ogaten/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.us-east-2.amazonaws.com/ogateh/oGate.htm?from=wnel">入口</a>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=wnel">入口</a><br/>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel">入口</a>
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=wnel">入口</a>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">入口</a><br/>
+      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel">入口</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=wnel">入口</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
 苹果用户复制到自带浏览器打开<br/>
@@ -180,9 +183,9 @@ https://git.io/vQowA<br/>
 无界安卓版 https://git.io/v6836 <br/>
 无界电脑版 https://git.io/vEJlj <br/>
 ◆翻墙小技巧：<br/>
-II苹果用户，用自带浏览器收藏https://git.io/ogate 翻墙全球真实资讯<br/>
+II苹果用户，用自带浏览器收藏https://git.io/ogate2 翻墙全球真实资讯<br/>
 II苹果用户最佳免费翻墙大全：https://git.io/vQo02<br/>
-II安卓、电脑用户，用谷歌浏览器收藏 https://git.io/ogate 浏览全球真实资讯<br/>
+II安卓、电脑用户，用谷歌浏览器收藏 https://git.io/ogate2 浏览全球真实资讯<br/>
 II安卓、电脑用户，安装并成功打开无界或自由门后，可在软件内打开推特、脸书、youtube等<br/>
 II安卓、电脑用户，成功打开无界或自由门后，可用谷歌浏览器打开全球任意网站<br/>
 II更多翻墙大全 https://git.io/jww<br/>
