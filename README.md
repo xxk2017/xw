@@ -32,7 +32,7 @@ https://github.com/ogate2/ogate<br/>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆国产浏览器干扰浏览，请卸载<br/>
 ◆2017国人翻墙最人气软件网门<br/>
-◆网门安卓版 http://6du.in/111rXun<br/>
+◆网门安卓版 https://git.io/ogatea2<br/>
 ◆下载网门安卓版：更快更方便<br/>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ https://github.com/ogate2/ogate<br/>
   <tr>
       <td align=center>
 2017年网民翻墙最人气软件<br/>
-安卓版 http://6du.in/111rXun<br/>
+https://git.io/ogatea2<br/>
 下载网门安卓版更快更方便<br/>
   </tr>
   <tr>
