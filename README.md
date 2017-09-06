@@ -160,7 +160,7 @@ https://git.io/ogatea2<br/>
 <td align=left>
 ◆全球免费翻墙最人气网站：网门<br/> 
 网门网页版 https://git.io/ogate2 热门推荐<br/>
-网门安卓版 http://6du.in/111rXun<br/>
+网门安卓版 https://git.io/ogatea2<br/>
 ◆全球最人气翻墙软件<br/> 
 <a href="https://s3.amazonaws.com/ogate/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
 <a href="https://s3.amazonaws.com/ogate/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
