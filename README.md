@@ -5,6 +5,7 @@
   <tr>
 <td align=left>本页短网址：https://git.io/vQgT8<br/>
 ❤翻墙永久网址：https://git.io/ogate2 <br/>
+https://github.com/ogate2/ogate
 本页如屏蔽，请将网址输入谷歌浏览器<br/>
 苹果用户请输入网址到苹果浏览器打开<br/>
 网民必备浏览器：谷歌浏览器（请安装）<br/>
@@ -20,7 +21,7 @@
   <tr>
 <td align=left>◆2017国人翻墙最人气网站<br/>
 ❤网门 https://git.io/ogate2<br/>
-  https://github.com/ogate2/ogate<br/>
+https://github.com/ogate2/ogate<br/>
 ◆请收藏到手机和电脑浏览器中<br/>
 ◆适合苹果、安卓、平板、电脑<br/>
 ◆其中安卓用户与电脑用户<br/>
@@ -31,7 +32,7 @@
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆国产浏览器干扰浏览，请卸载<br/>
 ◆2017国人翻墙最人气软件网门<br/>
-◆网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
+◆网门安卓版 http://6du.in/111rXun<br/>
 ◆下载网门安卓版：更快更方便<br/>
   </tr>
   <tr>
@@ -138,7 +139,7 @@ https://github.com/ogate2/ogate<br/>
   <tr>
       <td align=center>
 2017年网民翻墙最人气软件<br/>
-安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
+安卓版 http://6du.in/111rXun<br/>
 下载网门安卓版更快更方便<br/>
   </tr>
   <tr>
@@ -159,9 +160,7 @@ https://github.com/ogate2/ogate<br/>
 <td align=left>
 ◆全球免费翻墙最人气网站：网门<br/> 
 网门网页版 https://git.io/ogate2 热门推荐<br/>
-网门安卓版 https://git.io/ogatea<br/>
-网门桌面版 https://git.io/ogatew<br/>
-谷歌桌面版 https://git.io/ogatecw<br/>
+网门安卓版 http://6du.in/111rXun<br/>
 ◆全球最人气翻墙软件<br/> 
 <a href="https://s3.amazonaws.com/ogate/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
 <a href="https://s3.amazonaws.com/ogate/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
@@ -178,7 +177,7 @@ https://github.com/ogate2/ogate<br/>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆翻墙最佳浏览器：谷歌浏览器大全<br/>
 https://git.io/vQowA<br/>
-国内浏览器会干扰屏蔽，也会监控隐私，建议卸载<br/>
+国内浏览器会干扰屏蔽，监控隐私，建议卸载<br/>
 ◆全球热门免费VPN：<br/>
 自由门安卓版 https://git.io/fgma <br/>
 自由门电脑版 https://git.io/fgp <br/>
