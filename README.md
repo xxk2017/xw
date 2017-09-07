@@ -39,7 +39,7 @@ https://github.com/ogate2/ogate<br/>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E6%96%B0%E9%97%BB.jpg" /></td>
   </tr>
   <tr>
-<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E6%96%B0.jpg"/></td>
   </tr>
   <tr>
   <td align=center>
