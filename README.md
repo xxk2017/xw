@@ -19,7 +19,7 @@ https://github.com/ogate2/ogate<br/>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
   </tr>
   <tr>
-<td align=left>◆2017国人翻墙最人气网站<br/>
+<td align=left>◆2018国人翻墙最人气网站<br/>
 ❤网门 https://git.io/ogate2<br/>
 https://github.com/ogate2/ogate<br/>
 ◆请收藏到手机和电脑浏览器中<br/>
@@ -31,7 +31,7 @@ https://github.com/ogate2/ogate<br/>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆国产浏览器干扰浏览，请卸载<br/>
-◆2017国人翻墙最人气软件网门<br/>
+◆2018国人翻墙最人气软件网门<br/>
 ◆网门安卓版 https://git.io/ogatea2<br/>
 ◆下载网门安卓版：更快更方便<br/>
 </tr>
@@ -143,7 +143,7 @@ https://git.io/ogatea2<br/>
 下载网门安卓版更快更方便<br/>
   </tr>
   <tr>
-    <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
+    <td align=center><img src="https://raw.githubusercontent.com/oGate2/Up/master/oGate_640.jpg"/></td>
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E6%96%B0.jpg"/></td>
